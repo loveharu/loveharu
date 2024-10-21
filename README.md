@@ -1,19 +1,32 @@
 <h1 align="center">😎반갑습니다. 제 이름은 김 하겸입니다.</h1>
+
+
 <h3 align="center">👀한국에서 풀스택 개발자와 게임 개발자를 목표로 공부중입니다.</h3>
 
-- 🔭 Unity를 이용한 3D 멀티 게임 (team project) [Winkle Time Area](https://github.com/loveharu/Winkle-Time-Arena)
+
+
 
 - 🌱 현재 리액트와 스프링 부트를 공부 중 입니다. **📢Spring Boot, React**
 
-- 👯 예약 사이트 프로젝트 (team project) [모두의 예약](https://github.com/loveharu/reservation_0905)
 
-- 🤝 1인 쇼핑몰 프로젝트 [Viva Velvet](https://github.com/loveharu/Personal-Project-Shopping-mall-)
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/IT-_-1235bd67547e80b6b4dff534c2d1f972](https://www.notion.so/IT-_-1235bd67547e80b6b4dff534c2d1f972)
 
 - 💬 Ask me about **react,spring,unity,java**
 
 - 📫 How to reach me **gkrua5056@naver.com**
+
+
+🥇 프로젝트!
+- 🔭 Unity를 이용한 3D 멀티 게임 (team project) [Winkle Time Area](https://github.com/loveharu/Winkle-Time-Arena)
+
+- 👯 예약 사이트 프로젝트 (team project) [모두의 예약](https://github.com/loveharu/reservation_0905)
+
+- 🤝 1인 쇼핑몰 프로젝트 [Viva Velvet](https://github.com/loveharu/Personal-Project-Shopping-mall-)
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
