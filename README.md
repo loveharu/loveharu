@@ -10,7 +10,7 @@
 - 🔭 Unity를 이용한 3D 멀티 게임 (team project) [Winkle Time Area](https://github.com/loveharu/Winkle-Time-Arena)
 
 - 👯 예약 사이트 프로젝트 (team project) [모두의 예약](https://github.com/loveharu/reservation_0905)
-- ✌ 예약 사이트 프로젝트_홈페이지(team project) [메인페이지]([https://github.com/loveharu/ParkingSystem](https://github.com/loveharu/ReservationHomePage))
+- 👯 예약 사이트 프로젝트 메인 페이지 [모두의 예약 홈페이지](https://github.com/loveharu/ReservationHomePage)
 
 - 🤝 1인 쇼핑몰 프로젝트 [Viva Velvet](https://github.com/loveharu/Personal-Project-Shopping-mall-)
 
